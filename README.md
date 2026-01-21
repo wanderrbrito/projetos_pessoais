@@ -8,7 +8,7 @@ Pequeno projeto em Python que simula um aplicativo de viagens
 - Python 3
 - `os` para limpar a tela 
 - `random` para simular o "aceite" dos motoristas
-- `time` para obter a hora atual (simular horario normal)
+- `time` para obter a hora atual (simular horario normal/pico)
 
 ## Conceitos praticados neste projeto
 
