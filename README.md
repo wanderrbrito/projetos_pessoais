@@ -4,8 +4,7 @@
 Pequeno projeto em Python que simula um aplicativo de viagens
 (imagens, documentos, planilhas, vídeos, compactados, outros).
 
-## Tecnologias usadas
-
+## Recursos:
 - Python 3
 - `os` para limpar a tela 
 - `random` para simular o "aceite" dos motoristas
@@ -54,21 +53,31 @@ Criar um simuilador de app de viagens para treinar lógica de programação, man
 ## Avaliação do ChatGPT:
 
 ✅ Pontos positivos do código
+
 ✔ Boa separação em funções
+
 ✔ Simulação de tempo bem feita
+
 ✔ Uso correto de listas e dicionários
+
 ✔ Interface amigável
+
 ✔ Código legível e organizado
 
-📌 Resumo dos principais erros críticos corrigidos.
+
+<br>📌 Resumo dos principais erros críticos corrigidos.
+   
 ✔ Uso de `km` como variável global
+
 ✔ Função finaliza() duplicado
+
 ✔ Hora aleatória limitada
-✔ Falta de limite no loop
+
+✔ Falta de limite no loop<br>
 
 
+<br>🚀 Avaliação: Perfeito 😄
 
-🚀 Avaliação: Perfeito 😄
 Está ótimo como aprendizado — você praticou funções, listas, 
 dicionários, loops, validação de entrada, lógica condicional
 e até simulação de tempo. Isso já é muito conteúdo bem aplicado.
