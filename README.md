@@ -4,7 +4,7 @@
 Pequeno projeto em Python que simula um aplicativo de viagens
 (imagens, documentos, planilhas, vídeos, compactados, outros).
 
-## Recursos:
+## Recursos utilizados:
 - Python 3
 - `os` para limpar a tela 
 - `random` para simular o "aceite" dos motoristas
