@@ -3,6 +3,8 @@
 
 Pasta app_corrida - Simulador bem Basico de app de viagens urbanas
 
+Pasta competicao - Simular o controle de uma competicao (participántes - notas - médias)
+
 
 
 
