@@ -5,6 +5,8 @@ Pasta app_corrida - Simulador bem Basico de app de viagens urbanas
 
 Pasta competicao - Simular o controle de uma competicao (participántes - notas - médias)
 
+Pasta sorteio_copa - Simulador do sorteio de grupos da copa do mundo de 2026
+
 
 
 
