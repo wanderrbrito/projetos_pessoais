@@ -7,6 +7,8 @@ Pasta competicao - Simular o controle de uma competicao (participántes - notas 
 
 Pasta sorteio_copa - Simulador do sorteio de grupos da copa do mundo de 2026
 
+Pasta formula1 = Simulador do Grid de largada da Formula1
+
 
 
 
